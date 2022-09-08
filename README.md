@@ -8,11 +8,6 @@ Sou estudante do Ensino Médio e Técnico Senac Santa Cruz <strong>1/3</strong>
 
 </div>
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanablanke)
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-blank-509b4a241/)
-
-
 <br><br>
 #### Tecnologias que utilizo
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width="50pm"></img>
@@ -20,8 +15,14 @@ Sou estudante do Ensino Médio e Técnico Senac Santa Cruz <strong>1/3</strong>
 <br><br>
 #### Tecnologias que estou aprendendo
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="40pm"></img>
+<br><br><br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanablanke)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-blank-509b4a241/)
 
 
-
+<div align="right">
+<img height="200em" src="https://cdn.discordapp.com/attachments/1017413129472323616/1017413279523545098/giovana.png"/>
+</div>
 
 
