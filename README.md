@@ -25,4 +25,4 @@ Sou estudante do Ensino Médio e Técnico Senac Santa Cruz <strong>1/3</strong>
 <img height="200em" src="https://cdn.discordapp.com/attachments/1017413129472323616/1017413279523545098/giovana.png"/>
 </div>
 
-
+![Snake animation](https://github.com/giiovanaa/giiovanaa/blob/output/github-contribution-grid-snake.svg)
