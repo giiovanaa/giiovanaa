@@ -8,10 +8,10 @@ Sou estudante do Ensino Médio e Técnico Senac Santa Cruz <strong>1/3</strong>
 
 </div>
 
-<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanablanke)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-blank-509b4a241/)
-</div>
+
 
 <br><br>
 #### Tecnologias que utilizo
