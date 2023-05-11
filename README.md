@@ -4,6 +4,8 @@ Sou estudante do Ensino Médio e Técnico Senac Santa Cruz <strong>2/3</strong>
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giiovanaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  [![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=giiovanaa)](https://github.com/anuraghazra/github-readme-stats)
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giiovanaa&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
