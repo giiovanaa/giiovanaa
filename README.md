@@ -3,7 +3,7 @@ Sou estudante do Ensino Médio e Técnico Senac Santa Cruz <strong>2/3</strong>
 <br><br>
 <div align="left">
   <a href="https://github.com/giiovanaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giiovanaa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giiovanaa&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
 <br><br>
