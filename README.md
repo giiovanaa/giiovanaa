@@ -9,7 +9,7 @@ Sou estudante do Ensino Médio e Técnico Senac Santa Cruz <strong>2/3</strong>
 <br><br>
 #### Tecnologias que utilizo
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width="50pm"></img>
-<img src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="35pm"></img>
+<img src="https://github.com/senacscs/t2/assets/105399656/7dea0a65-2c76-445c-8cfb-0ed1f09336b9" width="50pm"></img>
 <br><br>
 #### Tecnologias que estou aprendendo
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="40pm"></img>
