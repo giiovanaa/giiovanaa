@@ -13,6 +13,7 @@ Sou estudante do Ensino Médio e Técnico Senac Santa Cruz <strong>3/3</strong>
 <br><br>
 #### Tecnologias que estou aprendendo
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="40pm"></img>
+<img src="https://th.bing.com/th?id=OSK.277962200dca1be6895b731f588617fd&w=64&h=64&c=7&o=6&dpr=1.5&pid=SANGAM" width="40pm"></img>
 <br><br><br>
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanablanke) -->
