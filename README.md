@@ -1,4 +1,4 @@
-### Oioi, bem vindes ao meu perfil <3
+### Oioi, bem vindos ao meu perfil <3
 Sou estudante do Ensino Médio e Técnico Senac Santa Cruz <strong>3/3</strong>
 <br><br>
 <div align="left">
