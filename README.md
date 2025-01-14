@@ -1,5 +1,5 @@
-### Oioi, bem vindos ao meu perfil <3
-Sou estudante do Ensino Médio e Técnico Senac Santa Cruz <strong>3/3</strong>
+### Oioi, desejo-lhes as boas-vindas ao meu perfil <3
+Formada Técnica em Informática para a Web pelo Ensino Médio e Técnico Senac Santa Cruz. 
 <br><br>
 <div align="left">
   <a href="https://github.com/giiovanaa">
