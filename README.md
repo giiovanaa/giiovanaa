@@ -18,8 +18,3 @@ Formada Técnica em Informática para a Web pelo Ensino Médio e Técnico Senac 
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanablanke) -->
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-blank-509b4a241/)
-
-
-<div align="right">
-<img height="200em" src="https://cdn.discordapp.com/attachments/1017413129472323616/1017413279523545098/giovana.png"/>
-</div>
