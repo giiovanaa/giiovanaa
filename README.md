@@ -11,9 +11,11 @@ Formada Técnica em Informática para a Web pelo Ensino Médio e Técnico Senac 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width="50pm"></img>
 <img src="https://github.com/senacscs/t2/assets/105399656/7dea0a65-2c76-445c-8cfb-0ed1f09336b9" width="50pm"></img>
 <br><br>
-#### Tecnologias que estou aprendendo
+#### Tecnologias que estou aprendendo (tenho conhecimento básico)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="40pm"></img>
 <img src="https://th.bing.com/th?id=OSK.277962200dca1be6895b731f588617fd&w=64&h=64&c=7&o=6&dpr=1.5&pid=SANGAM" width="40pm"></img>
+<img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="40pm"></img>
+<img src="https://pngimg.com/d/mysql_PNG23.png" width="40pm"></img>
 <br><br><br>
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanablanke) -->
