@@ -1,5 +1,9 @@
 ### Oioi, desejo-lhes as boas-vindas ao meu perfil <3
 Formada Técnica em Informática para a Web pelo Ensino Médio e Técnico Senac Santa Cruz. 
+Atualmente curso bacharelado em Administração e Técnico em Análise e Desenvolvimento de Sistemas. 
+E sou estagiária da contabilidade na Universal Leaf Tabacos 🌐🍂
+
+Além de ser apaixonada por gestão e tecnologia, adoro aprender porquê e como nos comunicamos. Por isso, procuro expandir meu conhecimento de culturas e idiomas. Falo português nativo e inglês avançado, compreendo e consigo me comunicar em espanhol e estou aprendendo coreano.
 <br><br>
 <div align="left">
   <a href="https://github.com/giiovanaa">
